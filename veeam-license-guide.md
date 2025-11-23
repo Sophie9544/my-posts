@@ -23,6 +23,10 @@ No modifications to Veeam software source code are required, which preserves ful
 has become a strategic decision rather than a simple administrative step, especially when planning for multi environment protect.
 
 
+![Veeam](https://raw.githubusercontent.com/Sophie9544/my-posts/c62c799a6a3137103b50679f466f0cbc65579c8c/v2.png)
+
+
+
 Founded in 2006, Veeam is a private American company and today serves more than 500,000 customers worldwide. 
 
 Its single flagship solution the Veeam Data Platform delivers the backbone of enterprise recovery. 
