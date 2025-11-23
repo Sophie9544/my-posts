@@ -13,6 +13,8 @@ Veeam’s licensing model reflects the reality of modern hybrid infrastructures.
 In many cases, businesses seeking flexible deployment rely on the Veeam Universal License (VUL).
 Its workload based structure allows customers to move freely between cloud environments, virtual machines, containers, and physical servers without buying separate licenses for each platform. This approach is particularly efficient for organizations undergoing gradual digital transformation, workload migrations, or multi site expansion.
 
+![Veeam Backup Image](https://raw.githubusercontent.com/Sophie9544/my-posts/0deec7ab8dc17462d980178c72a28d3cb765f920/v1.png)
+
 **Deployment, Updating, and Purchasing Method for Veeam Licenses**
 
 Once deployed on an appropriate VPS or server, the license can be updated online just like any other official entitlement. 
