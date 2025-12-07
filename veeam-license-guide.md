@@ -19,7 +19,7 @@ Its workload based structure allows customers to move freely between cloud envir
 
 Once deployed on an appropriate VPS or server, the license can be updated online just like any other official entitlement. 
 No modifications to Veeam software source code are required, which preserves full compatibility with official releases and updates. 
- Many organizations that are evaluating digital asset resilience strategies report that the [Veeam License Purchasing Method](https://golicense.net/product-category/network-license/veeam/)
+ Many organizations that are evaluating digital asset resilience strategies report that the Veeam License Purchasing Method.
 has become a strategic decision rather than a simple administrative step, especially when planning for multi environment protect.
 
 
